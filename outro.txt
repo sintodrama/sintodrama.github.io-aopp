@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sintodrama</title>
+	<style>
+		body {
+			background-color: black;
+			font-family: 'agency fb';
+			text-align: justify;
+			margin: 0;
+		}
+		h2 {
+			margin-top: 50px;
+			color: white;
+			max-width: 50%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			margin: 50px 0;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		p {
+			margin: 0 auto;
+			max-width: 90%;
+			color: white;
+			text-align: justify;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		iframe {
+			max-width: 100%;
+			height: 400px;
+			margin: 50px auto;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	</style>
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+	<style>
+		body {
+			font-family: 'Roboto', sans-serif;
+		}
+	</style>
+	<style>
+		@font-face {
+			font-family: 'agency fb';
+			src: url('agencyfb.ttf');
+		}
+	</style>
+</head>
+<body>
+	<h2></h2>
+	<img src="img/capa e contracapa.jpg" alt="Imagem 1">
+	<p>Neste dia 15 de março, o duo de música experimental Sintodrama lança seu novo trabalho, ODO~, que busca a resposta para uma pergunta: Cheiro tem som?
+Através desse projeto de pesquisa e composição, foram sintetizados timbres e criadas escalas microtonais a partir de vibrações de moléculas odoríferas.</p>
+	<p>
+<br>
+Além do disco ODO~, que você pode ouvir nas plataformas digitais, o duo disponibiliza o aplicativo <a href="http://https://sintodrama.github.io//" target="_blank">Odor2Sound</a> , para síntese sonora a partir de moléculas odoríferas no supercollider, e também o documentário Sinto Cheiro de Drama, com mais informações sobre o projeto.</p>
+	<p>
+ <p>O Sintodrama, formado por Filipe Maliska e Kauê Werner, explora diferentes possibilidades sônicas através de processamento de sons acústicos e síntese através de algoritmos. O duo também costuma realizar trabalhos multimídias, desenvolvendo aplicativos, explorando possibilidades em realidade virtual e cinema, relacionados a conceitos sonoros. Realizou dois Eps no youtube, Ao vivo em Itapema (2016) e Poligrotia (2017), o live cinema Enter the Void (2018) e a instalação sonora virtual multicanais “Rebocando o Pavilhão Philips” (2020), vencedor do prêmio de inovação no Festival Internacional de Cinema de Balneário Camboriu em 2020. Também desenvolve o aplicativo Sinestética, para síntese sonora em realidade virtual.</p>
+	<br>
+<p> Projeto aprovado pela Lei Nacional de Incentivo à Cultura, apoio Aromas de Catarina, Financiamento Ministério da Cultura, Governo Federal União e Reconstrução. PRONAC 201666
+</p>
+	
+	<h2></h2>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5ztMsn_z89U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+</html>
